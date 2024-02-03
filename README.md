@@ -10,7 +10,7 @@ Welcome to the PwC Virtual Internship project on Customer Churn Analysis in the 
 
 ## **Dashboard**:
 You can check out my dashboard [here](https://app.fabric.microsoft.com/view?r=eyJrIjoiOTE5MmIyMDQtYmZiOS00M2MwLWFhZWQtMTIyMGJlMTEwODEzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-![]()
+![](https://github.com/Shaishta-Anjum/PwC-Customer-Churn-Analysis/blob/main/Dashboard.png)
 
 ## **Insights**:
   - Paperless Billing Preference: Majority of customers prefer paperless billing.
